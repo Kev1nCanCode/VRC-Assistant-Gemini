@@ -1,0 +1,9 @@
+.env
+chat_history.csv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+.idea/
